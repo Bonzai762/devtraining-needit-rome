@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Needit Experience Config">af4c665cdb7330106f1f68d35b961993</app_config>
+        <description/>
+        <event_mappings>[ ]</event_mappings>
+        <macroponent display_value="Home">793be7e0db7330106f1f68d35b961970</macroponent>
+        <macroponent_config>{
+  "label" : "",
+  "bare" : true,
+  "scrollable" : "y",
+  "headerLevel" : "1",
+  "interceptNotifications" : false,
+  "propagateNotifications" : false
+}</macroponent_config>
+        <name>User home</name>
+        <order>0</order>
+        <parent_macroponent display_value="UXR Blank AppShell">fee17a0f5b130010b913cbd59b81c7c2</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <screen_condition/>
+        <screen_type display_value="Home">ce8ea6dcdb7330106f1f68d35b9619cd</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>gdickerson</sys_created_by>
+        <sys_created_on>2021-11-10 15:52:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b13be7e0db7330106f1f68d35b961974</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User home</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_screen_b13be7e0db7330106f1f68d35b961974</sys_update_name>
+        <sys_updated_by>gdickerson</sys_updated_by>
+        <sys_updated_on>2021-11-10 15:52:01</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=b13be7e0db7330106f1f68d35b961974"/>
+</record_update>
